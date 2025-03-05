@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MedConnect</string>
+    <string name="editTextEmail">Email</string>
+    <string name="editTextPassword">Password</string>
+    <string name="textLinkFPassword">Forgot Password?</string>
+    <string name="loginButton">Login</string>
+    <string name="buttonRegister">Register</string>
 </resources>
